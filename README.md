@@ -7,13 +7,13 @@ To run the application using Docker and Docker Compose, follow these steps:
 1.  Clone the repository:
 
     ```
-    git clone https://github.com/DzejlanRedzepefendic/RUBAC-app.git
+    git clone https://https://github.com/DzejlanRedzepefendic/RUBAC-APP
     ```
 
 2.  Navigate to the project directory:
 
     ```
-    cd [repository]
+    cd RUBAC-APP
     ```
 
 3.  Build the Docker image:
