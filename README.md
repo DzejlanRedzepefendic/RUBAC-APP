@@ -24,17 +24,19 @@ To run the application using Docker and Docker Compose, follow these steps:
 
 4.  Start the container:
 
-        ```
-        docker-compose up -d
-        ```
+    ```
+    docker-compose up -d
+    ```
 
     The application should now be running in a Docker container and accessible at `http://localhost:8000`.
 
 ## Stopping the Container
 
 To stop the container, press `CTRL + C` in the terminal or run the following command:
-`    docker-compose down
-   `
+   
+   ```    
+   docker-compose down
+   ```
 
 ## Running the Tests
 
